@@ -1,2 +1,4 @@
 some info from main branch
 content to append 
+some new info from new branch
+
